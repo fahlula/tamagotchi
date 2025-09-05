@@ -9,7 +9,7 @@ Um Tamagotchi virtual simples e interativo para web — ideal para aprender e pr
 - Interfaces amigáveis com botões, animações, som (se aplicável)
 - Recria a sensação nostálgica dos Tamagotchis clássicos em uma experiência web
 
-##  Tecnologias (Exemplo)
+##  Tecnologias 
 
 - **HTML5** para estrutura da página
 - **CSS3** para estilo e responsividade
